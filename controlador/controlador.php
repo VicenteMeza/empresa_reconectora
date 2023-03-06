@@ -22,7 +22,6 @@
 
             //muestra la pagina
             include $respuesta;
-            //prueba
         }
     }
 ?>
