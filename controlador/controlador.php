@@ -22,6 +22,7 @@
 
             //muestra la pagina
             include $respuesta;
+            //simon
         }
     }
 ?>
