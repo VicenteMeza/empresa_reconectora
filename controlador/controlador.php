@@ -22,7 +22,7 @@
 
             //muestra la pagina
             include $respuesta;
-            //andamos calando
+            
         }
     }
 ?>
